@@ -1,0 +1,16 @@
+StoreName,IngredientName,QtyOnHand,ReorderPoint,Shortfall,PreferredSupplier
+Fern Creek,Vanilla syrup,308.2,605.7,297.5,DEMO River City Beverage Supply
+Fern Creek,Cinnamon,382.8,621.8,239.0,DEMO River City Beverage Supply
+Fern Creek,Espresso beans,269.8,507.1,237.3,DEMO River City Beverage Supply
+Outer Loop,Sugar,263.8,481.0,217.2,DEMO Morning Bakery Distribution
+Longest Avenue,Cheddar,219.6,435.5,215.9,DEMO Morning Bakery Distribution
+Outer Loop,Chocolate syrup,313.2,444.9,131.7,DEMO River City Beverage Supply
+Gardiner Lane,Vanilla syrup,431.5,549.7,118.2,DEMO River City Beverage Supply
+Longest Avenue,Espresso beans,504.4,562.6,58.2,DEMO River City Beverage Supply
+Longest Avenue,Sugar,410.1,464.4,54.3,DEMO Morning Bakery Distribution
+Clifton,Flour,557.1,598.4,41.3,DEMO Morning Bakery Distribution
+Clifton,Butter,442.7,476.8,34.1,DEMO Morning Bakery Distribution
+Gardiner Lane,Butter,385.2,419.1,33.9,DEMO Morning Bakery Distribution
+Longest Avenue,Matcha powder,513.1,537.6,24.5,DEMO River City Beverage Supply
+Gardiner Lane,Eggs,28.3,37.0,8.7,DEMO Morning Bakery Distribution
+Clifton,Eggs,36.4,43.0,6.6,DEMO Morning Bakery Distribution
