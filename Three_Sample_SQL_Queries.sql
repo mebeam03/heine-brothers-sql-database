@@ -1,5 +1,4 @@
 -- Heine Brothers’ Coffee | Three Sample SQL Queries
--- Academic case study: all transactional and operating data is synthetic.
 -- Database: heine_coffee_demo.sqlite (SQLite)
 
 -- QUERY 1: Store revenue and completed-order volume (October 2026)
