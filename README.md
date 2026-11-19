@@ -1,6 +1,6 @@
 # Heine Brothers’ Coffee Relational Database Design & SQL Analysis
 
-An **independent academic case study** inspired by Heine Brothers’ Coffee, a Louisville coffee chain. The project demonstrates relational database design, crow’s foot entity–relationship modeling, keys and constraints, many-to-many relationships, subtype specialization, and SQL reporting using an **18-table SQLite database**.
+A  case study inspired by Heine Brothers’ Coffee, a Louisville coffee chain. The project demonstrates relational database design, crow’s foot entity–relationship modeling, keys and constraints, many-to-many relationships, subtype specialization, and SQL reporting using an 18-table SQLite database.
 
 > **Data disclaimer:** This project is not affiliated with Heine Brothers’ Coffee. The database design, operational records, employee information, inventory, suppliers, transactions, and query results are **synthetic**. 
 
